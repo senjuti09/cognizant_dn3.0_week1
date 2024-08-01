@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Adding more content to the file1.txt
+=======
+"Adding more content to the file1.txt"
+"Adding more content to file1.txt"
+>>>>>>> cognizantweek1/master

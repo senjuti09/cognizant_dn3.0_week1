@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the content for file2.txt
+=======
+"This is the content for file2.txt"
+>>>>>>> cognizantweek1/master
